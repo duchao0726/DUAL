@@ -2,7 +2,7 @@
 
 Code for reproducing most of the results in the paper:
 
-[Exploration in Online Advertising Systems with Deep Uncertainty-Aware Learning](https://arxiv.org/abs/2012.02298). Chao Du, Zhifeng Gao, Shuo Yuan, Lining Gao, Ziyan Li, Yifan Zeng, Xiaoqiang Zhu, Jian Xu, Kun Gai and Kuang-chih Lee, 2020.
+[Exploration in Online Advertising Systems with Deep Uncertainty-Aware Learning](https://arxiv.org/abs/2012.02298). Chao Du, Zhifeng Gao, Shuo Yuan, Lining Gao, Ziyan Li, Yifan Zeng, Xiaoqiang Zhu, Jian Xu, Kun Gai and Kuang-chih Lee. SIGKDD 2021.
 
 :warning: The code is still under development.
 
